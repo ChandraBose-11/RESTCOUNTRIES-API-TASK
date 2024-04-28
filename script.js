@@ -29,7 +29,7 @@ response
   <h5 class="card-title text-center">${result[i].name.common} </h5>
   </div>
  <div class=img-box">
- <img src="${result[i].flags.svg}" class="card-img-top" alt="country image"/>
+ <img src="${result[i].flags.png}" class="card-img-top" alt="country image"/>
  </div>
 <div class="card-body">
 <div class="card-text text-center">Region:${result[i].region}</div>
